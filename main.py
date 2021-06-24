@@ -35,4 +35,6 @@ print(Clothes)
 
 #STEP1
 list_of_cities = ("Oakland","Atlanta","New York City","Seatle", "Memphis", "Miami", "Boston", "Los Angeles", "Denver" )
-list_of_kdramas
+print(list_of_cities)
+
+list_of_kdrama = ("Boys over flowers", "Vicenzo", "IOTNBO", "Sky Castle", "Reply 1997", "Mr Queen")
